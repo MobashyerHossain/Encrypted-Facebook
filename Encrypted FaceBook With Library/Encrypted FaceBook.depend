@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1491176362 source:f:\encrypted facebook\main.cpp
+	<iostream>
+	"Control.h"
+
+1491175160 f:\encrypted facebook\userinfo.h
+	<iostream>
+
+1491175380 source:f:\encrypted facebook\userinfo.cpp
+	"UserInfo.h"
+	"Crypto.h"
+	<iostream>
+
+1491174255 source:f:\encrypted facebook\crypto.cpp
+	"Crypto.h"
+	<iostream>
+
+1491174259 f:\encrypted facebook\crypto.h
+	<iostream>
+
+1491177472 source:f:\encrypted facebook\control.cpp
+	"UserInfo.h"
+	"Crypto.h"
+	"Control.h"
+	<stdlib.h>
+	<iostream>
+
+1491176554 f:\encrypted facebook\control.h
+
+1491176362 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\main.cpp
+	<iostream>
+	"Control.h"
+
+1492404920 e:\nsu meterials\courses\cse225\may\project\encrypted facebook\control.h
+
+1493307578 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\userinfo.cpp
+	"UserInfo.h"
+	"Crypto.h"
+	<iostream>
+
+1493307581 e:\nsu meterials\courses\cse225\may\project\encrypted facebook\userinfo.h
+	<iostream>
+
+1493307463 e:\nsu meterials\courses\cse225\may\project\encrypted facebook\crypto.h
+	<iostream>
+
+1492948481 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\control.cpp
+	"Control.h"
+	"UserInfo.h"
+	"Crypto.h"
+	"Storage.h"
+	"Options.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1492950138 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\crypto.cpp
+	"Crypto.h"
+	<stdlib.h>
+	<sstream>
+	<iostream>
+
+1493307582 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\storage.cpp
+	"Storage.h"
+	"UserInfo.h"
+	"Crypto.h"
+	<iostream>
+	<stack>
+	<vector>
+	<queue>
+	<string.h>
+	<fstream>
+
+1493307370 e:\nsu meterials\courses\cse225\may\project\encrypted facebook\storage.h
+	"UserInfo.h"
+	"Crypto.h"
+	<string>
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+
+1493307013 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook\options.cpp
+	"Options.h"
+	"UserInfo.h"
+	"Crypto.h"
+	"Control.h"
+	"Storage.h"
+	<stack>
+	<vector>
+	<queue>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1492404750 e:\nsu meterials\courses\cse225\may\project\encrypted facebook\options.h
+	"UserInfo.h"
+
+1492950138 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\crypto.cpp
+	"Crypto.h"
+	<stdlib.h>
+	<sstream>
+	<iostream>
+
+1493307463 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\crypto.h
+	<iostream>
+
+1491176362 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\main.cpp
+	<iostream>
+	"Control.h"
+
+1492404920 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\control.h
+
+1493307578 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\userinfo.cpp
+	"UserInfo.h"
+	"Crypto.h"
+	<iostream>
+
+1493307581 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\userinfo.h
+	<iostream>
+
+1493316156 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\book.cpp
+	"book.h"
+	"student.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<stdlib.h>
+
+1493311588 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\book.h
+
+1493311606 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\student.h
+
+1493315936 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\library.cpp
+	"Library.h"
+	"book.h"
+	"student.h"
+	"Control.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<stdlib.h>
+
+1493310830 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\library.h
+
+1493308675 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\options.cpp
+	"Options.h"
+	"UserInfo.h"
+	"Crypto.h"
+	"Control.h"
+	"Storage.h"
+	<stack>
+	<vector>
+	<queue>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1492404750 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\options.h
+	"UserInfo.h"
+
+1493307370 e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\storage.h
+	"UserInfo.h"
+	"Crypto.h"
+	<string>
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+
+1493308564 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\storage.cpp
+	"Storage.h"
+	"UserInfo.h"
+	"Crypto.h"
+	<iostream>
+	<stack>
+	<vector>
+	<queue>
+	<string.h>
+	<fstream>
+
+1493316012 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\student.cpp
+	"student.h"
+	"book.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<stdlib.h>
+
+1493314200 source:e:\nsu meterials\courses\cse225\may\project\encrypted facebook - copy\control.cpp
+	"Control.h"
+	"UserInfo.h"
+	"Crypto.h"
+	"Storage.h"
+	"Options.h"
+	"Library.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
